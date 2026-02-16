@@ -1,2 +1,2 @@
 
-This is the Aquaman source code repository.
+This is the AquamanWindowsApp source code repository.
